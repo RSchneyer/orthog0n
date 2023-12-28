@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name "switches")(type "Legacy")(uri "${KIPRJMOD}/MX_Alps_Hybrid-master/Schematic Library/MX_Alps_Hybrid.lib")(options "")(descr ""))
+  (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty-master/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
+  (lib (name "pro_micro")(type "KiCad")(uri "${KIPRJMOD}/pro_micro.kicad_sym")(options "")(descr ""))
+)
